@@ -91,14 +91,14 @@ Tags: **Business**, **Literal-Art**
 
 选则较小搅拌头（头必须能轻松插入窄体量杯中），细钢丝（钢丝数少一些为好），长杆的版本。
 
-![](https://pic3.zhimg.com/50/v2-9fcca8062180f82422a58a2039f9a7c4_720w.jpg?source=1940ef5c)要特别强调，这个搅拌工具很关键，不能使用这种搅拌器替代。
+![](https://pic1.zhimg.com/50/v2-9fcca8062180f82422a58a2039f9a7c4_720w.jpg?source=1940ef5c)要特别强调，这个搅拌工具很关键，不能使用这种搅拌器替代。
 
 ![](https://pic1.zhimg.com/50/v2-bfb6e5952586a4070fa9050486c95402_720w.jpg?source=1940ef5c)也不能使用电动搅拌器：
 
-![](https://pic3.zhimg.com/50/v2-3d31b41424061776b334c3ef15884140_720w.jpg?source=1940ef5c)  
+![](https://pica.zhimg.com/50/v2-3d31b41424061776b334c3ef15884140_720w.jpg?source=1940ef5c)  
 
 
-![](https://pic1.zhimg.com/50/v2-719f390925d9313f127b51debb51e613_720w.jpg?source=1940ef5c)量勺：
+![](https://pic2.zhimg.com/50/v2-719f390925d9313f127b51debb51e613_720w.jpg?source=1940ef5c)量勺：
 
 不锈钢材质、小尺寸、球形勺体（球形勺体比圆柱形或方块形勺体更易于清洗甩干）
 
@@ -106,19 +106,19 @@ Tags: **Business**, **Literal-Art**
 
 窄而高的圈足（易于手持） + 外展唇口（易于倾倒液体）
 
-![](https://pic1.zhimg.com/50/v2-3bff8172157ca3686679188a884cdfe5_720w.jpg?source=1940ef5c)阔口不带唇边浅盘一个：
+![](https://pic3.zhimg.com/50/v2-3bff8172157ca3686679188a884cdfe5_720w.jpg?source=1940ef5c)阔口不带唇边浅盘一个：
 
 深色带釉无唇边盘为佳。
 
-![](https://pica.zhimg.com/50/v2-96ce7bf8381e669f328a02a465aaab03_720w.jpg?source=1940ef5c)保鲜膜一卷：
+![](https://pic2.zhimg.com/50/v2-96ce7bf8381e669f328a02a465aaab03_720w.jpg?source=1940ef5c)保鲜膜一卷：
 
 带切割器，宽度大于盘子直径
 
-![](https://pic2.zhimg.com/50/v2-9a679bc6b942e4d45e8c64c01a733cfb_720w.jpg?source=1940ef5c)硅胶蒸篮一个：
+![](https://pica.zhimg.com/50/v2-9a679bc6b942e4d45e8c64c01a733cfb_720w.jpg?source=1940ef5c)硅胶蒸篮一个：
 
 食品级耐热硅胶制，尺寸与盘子直径匹配。如准备使用微波炉加热，则不需要准备蒸篮。
 
-![](https://pic2.zhimg.com/50/v2-c935bf552c9025d6f306bd0e6b5d3d10_720w.jpg?source=1940ef5c)带蒸格蒸锅一个：
+![](https://pic1.zhimg.com/50/v2-c935bf552c9025d6f306bd0e6b5d3d10_720w.jpg?source=1940ef5c)带蒸格蒸锅一个：
 
 蒸格直径大于盘子
 
@@ -126,7 +126,7 @@ Tags: **Business**, **Literal-Art**
 
 可调火力与定时
 
-![](https://pic2.zhimg.com/50/v2-84fa2508d8c3b173b07a669920c79f6c_720w.jpg?source=1940ef5c)  
+![](https://pic1.zhimg.com/50/v2-84fa2508d8c3b173b07a669920c79f6c_720w.jpg?source=1940ef5c)  
 
 
 微波炉
@@ -316,7 +316,7 @@ Tags: **Business**, **Literal-Art**
 * 加热工具型号（具体型号）、加热设置及加热时间
 * 在背景中置入中性灰色卡纸拍摄成品标准图，并以完成白平衡调整的成品图作为标准样本。
 
-![](https://pic1.zhimg.com/50/v2-a85270ad8db7842fe09ccdbfc1835aee_720w.jpg?source=1940ef5c)  
+![](https://pica.zhimg.com/50/v2-a85270ad8db7842fe09ccdbfc1835aee_720w.jpg?source=1940ef5c)  
 
 
 [（中字）如何用灰卡准确调节白平衡\_哔哩哔哩 (゜-゜)つロ 干杯~-bilibili](https://link.zhihu.com/?target=https%3A//b23.tv/0MppI0)需要采集的照片包括：
@@ -381,7 +381,7 @@ Tags: **Business**, **Literal-Art**
 
 等待加热的无泡蛋液：
 
-![](https://pic3.zhimg.com/50/v2-ef294aecce04e47423de669234a00282_720w.jpg?source=1940ef5c)正常的成品图：
+![](https://pic2.zhimg.com/50/v2-ef294aecce04e47423de669234a00282_720w.jpg?source=1940ef5c)正常的成品图：
 
 [![](https://pic2.zhimg.com/v2-c5e26284f9017c4aac7961020057c355.jpg)https://www.zhihu.com/video/1363676228562554880](https://link.zhihu.com/?target=https%3A//www.zhihu.com/video/1363676228562554880)  
 

@@ -216,7 +216,7 @@ Tags: **Business**, **Literal-Art**
 
 将蛋液完全打匀。如果没有完全打匀，就会有一些未打散的蛋白聚集成团，最终将影响成品口感。因为我们的原理的保证，你的动作可以相当猛烈。
 
-[![](https://pic4.zhimg.com/v2-63b1566558575a7609ca6f5971f7371d.jpg)可以猛烈的搅拌https://www.zhihu.com/video/1363676706256166912](https://link.zhihu.com/?target=https%3A//www.zhihu.com/video/1363676706256166912)最后利用搅拌头，将蛋黄膜衣带起（可以不必用力打捞，因为可以在移入盘中时去掉尾液沉淀）。
+[![](https://pic4.zhimg.com/v2-63b1566558575a7609ca6f5971f7371d.jpg)可以猛烈的搅拌https://www.zhihu.com/video/1363676706256166912](https://www.zhihu.com/video/1363676706256166912)最后利用搅拌头，将蛋黄膜衣带起（可以不必用力打捞，因为可以在移入盘中时去掉尾液沉淀）。
 
 搅拌头取出后立刻流水清洗干净，注意摘除缠绕的膜衣，甩干水分归位。同样，此时处理效益最佳。
 
@@ -307,7 +307,7 @@ Tags: **Business**, **Literal-Art**
 
 * 测试人知乎帐号
 * 测试地点室温（即鸡蛋温度）
-* 测试地点所在城市海拔（大气压相关）[海拔高度查询工具 - 等高线地图 - 查海拔](https://link.zhihu.com/?target=https%3A//www.chahaiba.com/)
+* 测试地点所在城市海拔（大气压相关）[海拔高度查询工具 - 等高线地图 - 查海拔(链接已失效)](https://www.chahaiba.com/)
 * 鸡蛋总体积（纯蛋液体积，ml）
 * 老抽 / 蚝油 / 米醋用量（ml，含品牌、型号）
 * 加入温水后体积（完成混合后的无泡蛋液体积）
@@ -383,7 +383,7 @@ Tags: **Business**, **Literal-Art**
 
 ![](https://pic2.zhimg.com/50/v2-ef294aecce04e47423de669234a00282_720w.jpg?source=1940ef5c)正常的成品图：
 
-[![](https://pic2.zhimg.com/v2-c5e26284f9017c4aac7961020057c355.jpg)https://www.zhihu.com/video/1363676228562554880](https://link.zhihu.com/?target=https%3A//www.zhihu.com/video/1363676228562554880)  
+[![](https://pic2.zhimg.com/v2-c5e26284f9017c4aac7961020057c355.jpg)https://www.zhihu.com/video/1363676228562554880](https://www.zhihu.com/video/1363676228562554880)  
 
 
 ![](https://pic2.zhimg.com/50/v2-251a41591c129df98810b51cec51499a_720w.jpg?source=1940ef5c)（未完，待续）

@@ -80,7 +80,7 @@ Tags: **Society**
 
 这是愤怒：
 
-![](https://pic1.zhimg.com/50/v2-747ee87414058b490f6f3d907d265daa_720w.jpg?source=1940ef5c)这也是愤怒：
+![](https://pic4.zhimg.com/50/v2-747ee87414058b490f6f3d907d265daa_720w.jpg?source=1940ef5c)这也是愤怒：
 ------
 
 ![](https://pic3.zhimg.com/50/v2-643d796a49c2f1a6d2b2c100c4e403cb_720w.jpg?source=1940ef5c)这也是愤怒：

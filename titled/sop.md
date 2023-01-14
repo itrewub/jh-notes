@@ -87,22 +87,22 @@ Tags: **Clan**, **Literal-Art**
 
 耐热玻璃材质、带深色刻度线、刻度容量为500ml，50ml刻度之间相距为1cm左右（这样才足够窄体）。因为窄体深杯不易清洗，可以配购杯刷。注意杯上带有倾液嘴为佳。
 
-![](https://pic1.zhimg.com/50/v2-3569440796638ea715d848ca2597f87d_720w.jpg?source=1940ef5c)半自动打蛋器：
+![](https://picx.zhimg.com/50/v2-3569440796638ea715d848ca2597f87d_720w.jpg?source=1940ef5c)半自动打蛋器：
 
 选则较小搅拌头（头必须能轻松插入窄体量杯中），细钢丝（钢丝数少一些为好），长杆的版本。
 
-![](https://picx1.zhimg.com/50/v2-9fcca8062180f82422a58a2039f9a7c4_720w.jpg?source=1940ef5c)要特别强调，这个搅拌工具很关键，不能使用这种搅拌器替代。
+![](https://picx.zhimg.com/50/v2-9fcca8062180f82422a58a2039f9a7c4_720w.jpg?source=1940ef5c)要特别强调，这个搅拌工具很关键，不能使用这种搅拌器替代。
 
-![](https://pic1.zhimg.com/50/v2-bfb6e5952586a4070fa9050486c95402_720w.jpg?source=1940ef5c)也不能使用电动搅拌器：
+![](https://picx.zhimg.com/50/v2-bfb6e5952586a4070fa9050486c95402_720w.jpg?source=1940ef5c)也不能使用电动搅拌器：
 
-![](https://pic1.zhimg.com/50/v2-3d31b41424061776b334c3ef15884140_720w.jpg?source=1940ef5c)  
+![](https://picx.zhimg.com/50/v2-3d31b41424061776b334c3ef15884140_720w.jpg?source=1940ef5c)  
 
 
-![](https://picx1.zhimg.com/50/v2-719f390925d9313f127b51debb51e613_720w.jpg?source=1940ef5c)量勺：
+![](https://picx.zhimg.com/50/v2-719f390925d9313f127b51debb51e613_720w.jpg?source=1940ef5c)量勺：
 
 不锈钢材质、小尺寸、球形勺体（球形勺体比圆柱形或方块形勺体更易于清洗甩干）
 
-![](https://picx1.zhimg.com/50/v2-9ee99d0ed576304445fc54b28f19255d_720w.jpg?source=1940ef5c)陶瓷小碗1个：
+![](https://picx.zhimg.com/50/v2-9ee99d0ed576304445fc54b28f19255d_720w.jpg?source=1940ef5c)陶瓷小碗1个：
 
 窄而高的圈足（易于手持） + 外展唇口（易于倾倒液体）
 
@@ -114,7 +114,7 @@ Tags: **Clan**, **Literal-Art**
 
 带切割器，宽度大于盘子直径
 
-![](https://picx1.zhimg.com/50/v2-9a679bc6b942e4d45e8c64c01a733cfb_720w.jpg?source=1940ef5c)硅胶蒸篮一个：
+![](https://pica.zhimg.com/50/v2-9a679bc6b942e4d45e8c64c01a733cfb_720w.jpg?source=1940ef5c)硅胶蒸篮一个：
 
 食品级耐热硅胶制，尺寸与盘子直径匹配。如准备使用微波炉加热，则不需要准备蒸篮。
 
@@ -122,11 +122,11 @@ Tags: **Clan**, **Literal-Art**
 
 蒸格直径大于盘子
 
-![](https://picx1.zhimg.com/50/v2-369eb411c3cc82f2a325281bf0104ea5_720w.jpg?source=1940ef5c)电磁炉一个：
+![](https://picx.zhimg.com/50/v2-369eb411c3cc82f2a325281bf0104ea5_720w.jpg?source=1940ef5c)电磁炉一个：
 
 可调火力与定时
 
-![](https://pic1.zhimg.com/50/v2-84fa2508d8c3b173b07a669920c79f6c_720w.jpg?source=1940ef5c)  
+![](https://picx.zhimg.com/50/v2-84fa2508d8c3b173b07a669920c79f6c_720w.jpg?source=1940ef5c)  
 
 
 微波炉
@@ -211,7 +211,7 @@ Tags: **Clan**, **Literal-Art**
 
 使用适度的力量和速度按压搅拌蛋液，切忌猛烈的搅拌。密切注意蛋液表面，只要不要形成深陷的涡流和细碎的浪花，稍有这样的迹象，就停止搅拌等待蛋液平静。
 
-![](https://picx1.zhimg.com/50/v2-80fd32bb2d7de3713d0acef58ec8a781_720w.jpg?source=1940ef5c)**因为整个搅拌头深陷液面下，只有一根光滑细幼的不锈钢主轴穿越气液交界，因此，在完成蛋液搅拌的整个过程中将不会产生任何气泡。**
+![](https://picx.zhimg.com/50/v2-80fd32bb2d7de3713d0acef58ec8a781_720w.jpg?source=1940ef5c)**因为整个搅拌头深陷液面下，只有一根光滑细幼的不锈钢主轴穿越气液交界，因此，在完成蛋液搅拌的整个过程中将不会产生任何气泡。**
 ----------------------------------------------------------------
 
 将蛋液完全打匀。如果没有完全打匀，就会有一些未打散的蛋白聚集成团，最终将影响成品口感。因为我们的原理的保证，你的动作可以相当猛烈。
@@ -316,7 +316,7 @@ Tags: **Clan**, **Literal-Art**
 * 加热工具型号（具体型号）、加热设置及加热时间
 * 在背景中置入中性灰色卡纸拍摄成品标准图，并以完成白平衡调整的成品图作为标准样本。
 
-![](https://picx1.zhimg.com/50/v2-a85270ad8db7842fe09ccdbfc1835aee_720w.jpg?source=1940ef5c)  
+![](https://pic1.zhimg.com/50/v2-a85270ad8db7842fe09ccdbfc1835aee_720w.jpg?source=1940ef5c)  
 
 
 [（中字）如何用灰卡准确调节白平衡\_哔哩哔哩 (゜-゜)つロ 干杯~-bilibili](https://link.zhihu.com/?target=https%3A//b23.tv/0MppI0)需要采集的照片包括：
@@ -381,12 +381,12 @@ Tags: **Clan**, **Literal-Art**
 
 等待加热的无泡蛋液：
 
-![](https://picx1.zhimg.com/50/v2-ef294aecce04e47423de669234a00282_720w.jpg?source=1940ef5c)正常的成品图：
+![](https://pic1.zhimg.com/50/v2-ef294aecce04e47423de669234a00282_720w.jpg?source=1940ef5c)正常的成品图：
 
 [![](https://pic2.zhimg.com/v2-c5e26284f9017c4aac7961020057c355.jpg)https://www.zhihu.com/video/1363676228562554880](https://link.zhihu.com/?target=https%3A//www.zhihu.com/video/1363676228562554880)  
 
 
-![](https://picx1.zhimg.com/50/v2-251a41591c129df98810b51cec51499a_720w.jpg?source=1940ef5c)（未完，待续）
+![](https://pica.zhimg.com/50/v2-251a41591c129df98810b51cec51499a_720w.jpg?source=1940ef5c)（未完，待续）
 
 
 

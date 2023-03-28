@@ -1,6 +1,6 @@
 # AI模拟
 
-Tags: **Society**, **Science**
+Tags: **Society**, **AI**, **Science**
 
 > 这样的AI是真的吗？
 

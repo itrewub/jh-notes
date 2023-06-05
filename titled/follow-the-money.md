@@ -1,6 +1,6 @@
 # Follow the money
 
-Tags: **Clan**, **Changes**
+Tags: **Clan**
 
 > 乌方称「俄军轰炸一家运作中的妇产医院 」，却被俄国防部否认，目前当地情况如何？
 

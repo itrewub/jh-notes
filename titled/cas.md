@@ -1,6 +1,6 @@
 # CAS
 
-Tags: **Society**, **AI**, **Science**, **Business**, **Literal-Art**
+Tags: **Society**, **Literal-Art**, **Science**, **Business**
 
 > chatGPT 会带来失业潮吗？
 

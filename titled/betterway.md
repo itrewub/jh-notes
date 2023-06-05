@@ -1,6 +1,6 @@
 # BetterWay
 
-Tags: **Society**, **Changes**, **Business**
+Tags: **Society**, **Business**
 
 > 何小鹏称「若供应链企业无法找到复产方式，中国所有整车厂或将停工」，会有哪些影响？
 

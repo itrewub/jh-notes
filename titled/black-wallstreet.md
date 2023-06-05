@@ -27,7 +27,7 @@ Tags: **Society**
 ![](https://picx.zhimg.com/50/v2-e5a672a3d01b431c7df33d085ca97253_720w.jpg?source=1940ef5c)  
 
 
-![](https://pic1.zhimg.com/50/v2-81243092654cd4e6be9a42dea72091d6_720w.jpg?source=1940ef5c)**这个地方，是川普连任竞选的集会起点。就在今天。**
+![](https://picx.zhimg.com/50/v2-81243092654cd4e6be9a42dea72091d6_720w.jpg?source=1940ef5c)**这个地方，是川普连任竞选的集会起点。就在今天。**
 ---------------------------
 
 ![](https://picx.zhimg.com/50/v2-0696d7a65c51401b89a0c0cfba634fdb_720w.jpg?source=1940ef5c)多年以后，人们回忆起今天，可能会发现到这是美国一个值得记录的原点。

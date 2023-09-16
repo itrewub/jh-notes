@@ -20,5 +20,5 @@ Tags: **Science**
 
 史称“little bang theory”。
 
-![](https://picx.zhimg.com/50/v2-2d51e4f687290e1a8c462e149a3f5488_720w.jpg?source=1940ef5c)
+![](https://pica.zhimg.com/50/v2-2d51e4f687290e1a8c462e149a3f5488_720w.jpg?source=1940ef5c)
 

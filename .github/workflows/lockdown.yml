@@ -1,15 +1,19 @@
-name: 'Lock down repository'
+name: 'Repo Lockdown'
 
 on:
   issues:
-    types: ['opened', 'reopened']
-  pull_request:
-    types: ['opened', 'reopened']
+    types: opened
+  pull_request_target:
+    types: opened
+  schedule:
+    - cron: '0 * * * *'
+
+permissions:
+  issues: write
+  pull-requests: write
 
 jobs:
-  lockdown:
+  action:
     runs-on: ubuntu-latest
     steps:
-      - uses: dessant/repo-lockdown@v2
-        with:
-          github-token: ${{ github.token }}
+      - uses: dessant/repo-lockdown@v4

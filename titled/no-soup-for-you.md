@@ -30,7 +30,7 @@ Tags: **Society**, **Business**
 
 这不是“颠倒黑白”的问题，而是**不知死活**的愚蠢。
 
-![](https://picx.zhimg.com/50/v2-78112412217a588d6643091cd85eb933_720w.jpg?source=2c26e567)ps：google “soup nazi”。
+![](https://pic1.zhimg.com/50/v2-78112412217a588d6643091cd85eb933_720w.jpg?source=2c26e567)ps：google “soup nazi”。
 
 
 
